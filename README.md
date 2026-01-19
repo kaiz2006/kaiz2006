@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">Hi, guys! 👋😄</h2>
-<h3 align="center">Electronics Engineer (VLSI) | Backend & DSA Enthusiast | India 🇮🇳</h3>
+<h3 align="center">Electronics Engineer (VLSI) | Proficient Backend Developer | India 🇮🇳</h3>
 
 ---
 
@@ -14,7 +14,13 @@
   <a href="https://www.linkedin.com/in/aaryan-kumar-thakur-9a4783206/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/kaiz2006">
+  <a href="https://leetcode.com/u/kaiz2006/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kaiz2006?theme=dark&font=Baloo&ext=contest" />
+</p>
+<a href="https://github.com/kaiz2006">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:aaryankt.work@gmail.com">
@@ -28,8 +34,7 @@
 
 - 🔭 Currently working on **Backend + SQL Projects**
 - 🌱 Learning **DSA in C++ and System Design Basics**
-- ⚡ Electronics Engineering with **VLSI Specialization**
-- 🎯 Goal: **Internship in 2027–28 at MNC**
+- ⚡Getting to know about **WEB Development** and building projects
 
 ---
 
@@ -42,6 +47,8 @@
 ---
 
 ## 📊 Stats
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiz2006&layout=compact&theme=tokyonight" />
@@ -61,7 +68,7 @@
 
 - 🔹 Backend SQL Systems (Hospital / College ERP – coming soon)
 - 🔹 Portfolio Website (React + TS)
-- 🔹 DSA Practice in C++
+- 🔹 Hand Tracker in Python using OpenCV and Mediapipe
 
 ---
 
