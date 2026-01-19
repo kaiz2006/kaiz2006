@@ -1,66 +1,82 @@
-<!-- Banner -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Aaryan%20Thakur&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Aaryan%20Thakur&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">Hi, guys! 👋😄</h2>
-<h3 align="center">Electronics Engineer (VLSI) | Proficient Backend Developer | India 🇮🇳</h3>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=VLSI+Engineering+Student;Backend+%2B+SQL+Developer;DSA+in+C%2B%2B+%7C+Internship+2027-28;Future+MNC+Engineer+%F0%9F%94%A5" />
+</p>
 
 ---
 
-### 🔗 Connect with me
-
+<!-- Social Buttons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/aaryan-kumar-thakur-9a4783206/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-pill&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/kaiz2006/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/kaiz2006?theme=dark&font=Baloo&ext=contest" />
-</p>
-<a href="https://github.com/kaiz2006">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/kaiz2006">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-pill&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/kaiz2006/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-pill&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:aaryankt.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-pill&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=kaiz2006&style=flat-pill&color=blue" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-- 🔭 Currently working on **Backend + SQL Projects**
-- 🌱 Learning **DSA in C++ and System Design Basics**
-- ⚡Getting to know about **WEB Development** and building projects
+- 🎓 Electronics Engineering — **VLSI Specialization**
+- 💻 Strong focus on **Backend + SQL Systems**
+- 🧩 Daily **DSA in C++** grind
+-
 
 ---
 
-## 🛠 Skills
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,sql,html,css,ts,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,sql,html,css,ts,git,github,js,django,fastapi,react,linux&perline=9" />
 </p>
 
 ---
 
-## 📊 Stats
+## 🧩 LeetCode Performance
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kaiz2006?theme=dark&font=Montserrat&ext=contest&border=0&radius=20" />
+</p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaiz2006&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiz2006&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiz2006&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaiz2006&show_icons=true&theme=tokyonight" />
-</p>
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiz2006&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/kaiz2006/kaiz2006/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+
+
 
 ---
 
@@ -71,6 +87,7 @@
 - 🔹 Hand Tracker in Python using OpenCV and Mediapipe
 
 ---
+<!-- Footer -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
