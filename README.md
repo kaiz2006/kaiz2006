@@ -5,8 +5,10 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Engineering+Student;Backend+%2B+SQL+Developer/>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Engineering+Student;Proficient+Backend+Developer;Great+Knowledge+of+SQL" />
 </p>
+
 
 ---
 
@@ -34,14 +36,14 @@
 - 🎓 Electronics Engineering — **VLSI Specialization**
 - 💻 Strong focus on **Backend + SQL Systems**
 - 🧩 Daily **DSA in C++** grind
--
+
 
 ---
 
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,sql,html,css,ts,git,github,js,django,fastapi,react,linux&perline=9" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,mysql,postgres,html,css,ts,git,github,js,django,fastapi,react,linux&perline=9" />
 </p>
 
 ---
