@@ -1,7 +1,8 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Aaryan%20Thakur&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F00FF,50:00C6FF,100:00FFD1&height=260&section=header&text=Aaryan%20Kumar%20Thakur&fontSize=48&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=1" />
 </p>
+
 
 <!-- Typing Animation -->
 <p align="center">
