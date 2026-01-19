@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=VLSI+Engineering+Student;Backend+%2B+SQL+Developer;DSA+in+C%2B%2B+%7C+Internship+2027-28;Future+MNC+Engineer+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Engineering+Student;Backend+%2B+SQL+Developer; />
 </p>
 
 ---
