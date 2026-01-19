@@ -13,9 +13,7 @@
 
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&animation=twinkling" />
-</p>
+
 
 
 <!-- Social Buttons -->
@@ -36,9 +34,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&animation=twinkling" />
-</p>
+
 
 
 ## 🧠 About Me
@@ -49,9 +45,7 @@
 
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&animation=twinkling" />
-</p>
+
 
 
 ## ⚙️ Tech Stack
@@ -61,9 +55,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&animation=twinkling" />
-</p>
 
 
 ## 🧩 LeetCode Performance
@@ -73,9 +64,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&animation=twinkling" />
-</p>
+
 
 ## 📊 GitHub Stats
 
@@ -88,9 +77,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiz2006&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&animation=twinkling" />
-</p>
+
 
 
 ## 🐍 Contribution Snake
@@ -102,9 +89,7 @@
 ---
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&animation=twinkling" />
-</p>
+
 
 
 ---
