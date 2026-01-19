@@ -8,8 +8,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Engineering+Student;Proficient+Backend+Developer;Great+Knowledge+of+SQL" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Engineering+Student+with+Strong+Problem+Solving;Backend+Developer+Who+Loves+Scalable+Systems;SQL+%7C+APIs+%7C+Databases;Focused+on+Clean+and+Efficient+Code;Turning+Logic+into+Scalable+Software" />
 </p>
 
 
