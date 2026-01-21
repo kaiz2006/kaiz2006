@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,100:1a1a1a&text=Aaryan%20Kumar%20Thakur&fontColor=39FF14&fontSize=44&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F00FF,50:00C6FF,100:00FFD1&height=260&section=header&text=Aaryan%20Kumar%20Thakur&fontSize=48&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=1" />
 </p>
 
 
