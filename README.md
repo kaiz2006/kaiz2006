@@ -1,7 +1,8 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F00FF,50:00C6FF,100:00FFD1&height=260&section=header&text=Aaryan%20Kumar%20Thakur&fontSize=48&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=1" />
-</p>(https://capsule-render.vercel.app/api?type=blur&height=305&color=FFA500&text=Aaryan%20Kumar%20Thakur&fontColor=DAB1DA&textBg=false&fontSize=60&animation=twinkling)
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=305&color=FFA500&text=Aaryan%20Kumar%20Thakur&fontColor=DAB1DA&textBg=false&fontSize=60&animation=twinkling" />
+</p>
+
 
 
 
