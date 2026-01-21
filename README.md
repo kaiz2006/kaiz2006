@@ -9,7 +9,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF5FA2&center=true&vCenter=true&width=800&lines=Engineering+Student+with+Strong+Problem+Solving+Skills;Backend+Developer+Who+Loves+Scalable+Systems;SQL+%7C+APIs+%7C+Databases;Focused+on+Clean+and+Efficient+Code;Turning+Logic+into+Scalable+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=1861DB&center=true&vCenter=true&width=800&lines=Engineering+Student+with+Strong+Problem+Solving+Skills;Backend+Developer+Who+Loves+Scalable+Systems;SQL+%7C+APIs+%7C+Databases;Focused+on+Clean+and+Efficient+Code;Turning+Logic+into+Scalable+Software" />
 </p>
 
 
