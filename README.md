@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=305&color=FFA500&text=Aaryan%20Kumar%20Thakur&fontColor=FF5FA2&textBg=false&fontSize=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:141E30,100:243B55&text=Aaryan%20Kumar%20Thakur&fontColor=00FFF0&fontSize=42&animation=fadeIn" />
 </p>
 
 
@@ -9,7 +9,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFA500&center=true&vCenter=true&width=800&lines=Engineering+Student+with+Strong+Problem+Solving+Skills;Backend+Developer+Who+Loves+Scalable+Systems;SQL+%7C+APIs+%7C+Databases;Focused+on+Clean+and+Efficient+Code;Turning+Logic+into+Scalable+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00FFF0&center=true&vCenter=true&width=750&lines=VLSI+Engineering+Student;Backend+Developer+%7C+SQL+Specialist;DSA+in+C%2B%2B+Everyday" />
 </p>
 
 
