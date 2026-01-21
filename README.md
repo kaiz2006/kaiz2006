@@ -52,7 +52,7 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,mysql,postgres,html,css,ts,git,github,js,django,fastapi,react,linux&perline=9" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,pydantic,mysql,postgres,html,css,ts,git,github,js,django,fastapi,react,linux&perline=9" />
 </p>
 
 ---
