@@ -9,7 +9,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00FFF0&center=true&vCenter=true&width=750&lines=VLSI+Engineering+Student;Backend+Developer+%7C+SQL+Specialist;DSA+in+C%2B%2B+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00FFF0&center=true&vCenter=true&width=750&lines=VLSI+Engineering+Student;Backend+Developer+%7C+SQL+" />
 </p>
 
 
