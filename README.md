@@ -42,7 +42,7 @@
 
 - 🎓 Electronics Engineering — **VLSI Specialization**
 - 💻 Strong focus on **Backend + SQL Systems**
-- 🧩 Daily **DSA in C++** grind
+
 
 
 ---
