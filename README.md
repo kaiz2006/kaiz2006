@@ -40,6 +40,7 @@
 
 ## 🧠 About Me
 
+- ⚡ Student@PEC'29
 - 🎓 Electronics Engineering — **VLSI Specialization**
 - 💻 Strong focus on **Backend + SQL Systems**
 
