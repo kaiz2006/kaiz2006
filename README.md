@@ -98,7 +98,7 @@
 
 ## 🚀 Projects
 
-- 🔹 Backend SQL Systems (Hospital / College ERP – coming soon)
+- 🔹 Backend SQL Systems
 - 🔹 Portfolio Website (React + TS)
 - 🔹 Hand Tracker in Python using OpenCV and Mediapipe
 
